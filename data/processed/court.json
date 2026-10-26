@@ -1,0 +1,24 @@
+{
+  "video": "sample.mp4",
+  "coordinate_system": "original_pixels",
+  "frame_width": 3840,
+  "frame_height": 2160,
+  "court_polygon": [
+    [
+      963,
+      930
+    ],
+    [
+      387,
+      1314
+    ],
+    [
+      3411,
+      1302
+    ],
+    [
+      2841,
+      930
+    ]
+  ]
+}

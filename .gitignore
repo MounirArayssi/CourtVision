@@ -1,0 +1,22 @@
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+
+# Generated output
+runs/
+outputs/
+
+# Secrets
+.env
